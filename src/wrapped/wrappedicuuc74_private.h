@@ -27,6 +27,9 @@ GO(ubrk_setText_74, vFppip)
 GO(ubrk_setUText_74, vFppp)
 GO(ubrk_swap_74, iFppipp)
 
+GO(ucnv_compareNames_74, iFpp)
+GO(ucnv_getDefaultName_74, pFv)
+GO(ucnv_getStandardName_74, pFppp)
 GO(ucnv_open_74, pFpp)
 GO(ucnv_setDefaultName_74, vFp)
 
