@@ -12,6 +12,7 @@
 //GO(__gmp_asprintf_reps, 
 //GO(__gmp_assert_fail, 
 //GO(__gmp_assert_header, 
+DATA(__gmp_bits_per_limb, 64)
 //GO(__gmp_default_allocate, 
 //DATA(__gmp_default_fp_limb_precision, 
 //GO(__gmp_default_free, 
